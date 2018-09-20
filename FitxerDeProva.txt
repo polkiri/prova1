@@ -1,2 +1,4 @@
 Hola!
 Aquest és un fitxer de prova
+
+El cicle que fem és DAW
