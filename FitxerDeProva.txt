@@ -1,5 +1,5 @@
 Hola!
 Aquest és un fitxer de prova
-
+//comentari en local
 El cicle que fem és DAW
-Això és el comentari de prova per els conflictes
+
