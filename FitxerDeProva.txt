@@ -2,3 +2,4 @@ Hola!
 Aquest és un fitxer de prova
 //comentari en local en local ghjk
 El cicle que fem és DAW
+
