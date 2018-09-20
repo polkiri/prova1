@@ -1,6 +1,6 @@
 Hola!
 Aquest és un fitxer de prova
-
+//segon comentari
 El cicle que fem és DAW
 //comentari des de la web
 
