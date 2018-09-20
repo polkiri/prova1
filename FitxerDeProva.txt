@@ -3,4 +3,4 @@ Aquest és un fitxer de prova
 
 El cicle que fem és DAW
 
-comentari per veure el conflicte
+//comentari des de la web
