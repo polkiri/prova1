@@ -2,5 +2,3 @@ Hola!
 Aquest és un fitxer de prova
 //comentari en local en local
 El cicle que fem és DAW
-
-
