@@ -1,6 +1,6 @@
 Hola!
 Aquest és un fitxer de prova
-//comentari en local
+//comentari en local MODIFICAT ARA
 El cicle que fem és DAW
 
 
