@@ -1,6 +1,6 @@
 Hola!
-Aquest és un fitxer de prova
-//comentari en local MODIFICAT ARA
-El cicle que fem és DAW
+Aquest Ã©s un fitxer de prova
+//comentari en local MODIFICAT ARA en web
+El cicle que fem Ã©s DAW
 
 
