@@ -1,0 +1,1 @@
+suposat Styles.css que canvia el color de tota la pàgina web
